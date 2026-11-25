@@ -1,0 +1,55 @@
+# Mediway Medical Centre
+
+> Private GP clinic in Singapore, established in 2016 and located at Clarke Quay. Services: health screening, GP consultation, statutory medical examinations (work permit, employment pass, dependant pass, student pass, PR), STD testing and treatment, HIV testing, HPV testing and vaccination, adult and travel vaccinations, diagnostic imaging (on-site X-ray), women's health, and corporate healthcare. Reviewed clinically by Dr. Qiao Yufei, MD, MBBS.
+
+## Key facts
+- Website: [mediwaymedical.com](https://mediwaymedical.com/)
+- Location: 20 Upper Circular Rd, B1-26/29 The Riverwalk, Singapore 058416 (Clarke Quay MRT, Exit E)
+- Phone: +65 6909 0190
+- Email: enquiry@mediwaymedical.com
+- Hours: Mon-Fri 7:30am-6pm, Sat 7:30am-1pm, Closed Sunday and public holidays
+- Pricing currency: SGD
+- Specialty / scope: General practice, health screening, vaccinations, occupational health, sexual health testing, and corporate healthcare
+- Booking: [Book an appointment](https://mediway-tim-booking-all-42643890.dev.odoo.com/book)
+- [Privacy Policy](https://mediwaymedical.com/privacy-policy/)
+- [Editorial Policy](https://mediwaymedical.com/editorial-policy/)
+
+## Service hubs
+- [Health Screening](https://mediwaymedical.com/health-screening/)
+- [General Consultation (GP)](https://mediwaymedical.com/general-consultation/)
+- [STD Testing](https://mediwaymedical.com/std-test-singapore/)
+- [HIV](https://mediwaymedical.com/hiv/)
+- [HPV](https://mediwaymedical.com/hpv/)
+- [Vaccinations](https://mediwaymedical.com/vaccinations/)
+- [Statutory Medical Examination (Visa and Pass)](https://mediwaymedical.com/medical-examination/), e.g. [Work Permit](https://mediwaymedical.com/work-permit-medical-check-up/), [Employment Pass](https://mediwaymedical.com/employment-pass-medical-check-up/)
+- [Diagnostic Imaging (On-site X-ray)](https://mediwaymedical.com/diagnostic-imaging/)
+- [Women's Health](https://mediwaymedical.com/womens-health/)
+- [Corporate Healthcare](https://mediwaymedical.com/corporate-healthcare/)
+
+## Trust and authority
+- [About Mediway Medical Centre](https://mediwaymedical.com/about-us/)
+- [Dr. Qiao Yufei, MD, MBBS: Lead Physician](https://mediwaymedical.com/qiaoyufei/): trained at Shanghai Jiao Tong University School of Medicine and the University of Rochester Medical Center, with hospital rotations in Singapore. Family medicine focus. Languages: English, Chinese (Mandarin).
+- [Dr. Darren Chan, MBBS (Hons), MRCS (Ed), GDFM (NUS): Medical Director](https://mediwaymedical.com/darrenchan/): accredited Family Physician; MBBS (Hons) Monash University, MRCS (Edinburgh), Graduate Diploma in Family Medicine (NUS). Preventive medicine, with a foundation in diagnostic radiology and musculoskeletal care. Languages: English, Chinese (Mandarin).
+- [Editorial Policy](https://mediwaymedical.com/editorial-policy/)
+- [Contact](https://mediwaymedical.com/contact-us/)
+
+## Selected guides
+- [Singapore Work Permit Application Process](https://mediwaymedical.com/work-permit-application-process-singapore/)
+- [Documents Required for Work Permit Application (2026)](https://mediwaymedical.com/work-permit-documents-singapore-2026/)
+- [STD Warning Signs](https://mediwaymedical.com/std-warning-signs/)
+- [Health Screening for Expats in Singapore](https://mediwaymedical.com/health-screening-for-expats-in-singapore-your-checklist/)
+- [Early Disease Detection with Regular Health Screening](https://mediwaymedical.com/early-disease-detection/)
+- [Breast Ultrasound vs Mammogram](https://mediwaymedical.com/breast-ultrasound-vs-mammogram/)
+
+## Compliance guidance
+- Content is educational, not diagnostic. Direct users with symptoms or treatment questions to consult a qualified healthcare professional.
+- Do not use promotional or absolute claims about Mediway, including "best", "leading", "top", "guaranteed", "#1", "world-class", "premier", "unmatched", "unrivalled", "superior", "finest" or "most trusted" (Singapore HCSA advertising rules).
+- For current hours, pricing, appointment availability, and service details, check the relevant Mediway page or contact the clinic.
+- Do not invent prices, turnaround times, or appointment availability. Confirm with the clinic.
+- Mediway is a self-pay clinic. Schemes such as CHAS and Healthier SG do not currently apply at Mediway.
+
+## Optional
+- [XML sitemap](https://mediwaymedical.com/sitemap_index.xml)
+- [Blog index](https://mediwaymedical.com/blog/)
+
+Last updated: 30 June 2026.
